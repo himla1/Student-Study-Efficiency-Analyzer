@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-data=pd.read_csv('Student Study Efficiency Analyzer/Cleaned_Dataset.csv')
+data=pd.read_csv('Cleaned_Dataset.csv')
 print(data.info())
 
 # Avg Test score
