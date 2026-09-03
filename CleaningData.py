@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-data=pd.read_csv('Student Study Efficiency Analyzer/Dataset.csv')
+data=pd.read_csv('Dataset.csv')
 print(data.head())
 print(data.tail())
 print(data.info())
